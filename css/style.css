@@ -1,0 +1,125 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.0;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  .logo{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #2E2F42;
+  }
+  .logo-span{
+    font-size: 18px;
+    line-height: 1.17;
+    color: #4d5ae5;
+  ;
+  }
+  .list-nav{
+   
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: -0.02em;
+    
+  }
+  .list-link{
+    color:  #2E2F42;
+  }
+.list-link:hover,
+.list-link:focus {
+text-decoration: underline;
+text-decoration-color: #4d5ae5;
+  
+}
+.list-address{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: -0.02em;
+}
+.list-adress-link{
+    color: #434455;
+}
+.list-adress-link:hover,
+.list-adress-link:focus {
+text-decoration: underline;
+text-decoration-color: #4d5ae5;
+}
+.hero{
+    color:#FFFFFF;
+    background-color: #2E2F42;
+}
+.hero-header1{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 0.93;
+    letter-spacing: 0.02em;
+}
+.hero-button{
+    color:#FFFFFF;
+    background-color:#4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+
+}
+
+.hero-header1:hover,
+.hero-header1:focus {
+text-decoration: underline;
+text-decoration-color: #4d5ae5;
+}
+
+.list-section2{
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.list-section2-h3{
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+h2 {
+  color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+}
+.logo-footer{
+  font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #F4F4FD;
+
+}
+.footer{
+  background-color: #2E2F42;
+  color: #F4F4FD;
+
+}
+h2:hover,
+h2:focus {
+text-decoration: underline;
+text-decoration-color: #4d5ae5;
+}
+  
