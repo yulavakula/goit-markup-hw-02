@@ -12,7 +12,7 @@ body {
     list-style-type: none;
   }
   .logo{
-    font-family: 'Raleway'sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -75,6 +75,7 @@ color:  #404bbf ;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
+    font-family: "Roboto", sans-serif;
 
 }
 
